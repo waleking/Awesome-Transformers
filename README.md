@@ -8,3 +8,5 @@ A list of transformers
 1. **COMET: Commonsense Transformers for Automatic Knowledge Graph Construction**, ACL 2019 [(paper)](https://arxiv.org/pdf/1906.05317.pdf) [(pytorch code)](https://github.com/atcbosselut/comet-commonsense)
 
 1. **Adaptive Attention Span in Transformers**, ACL 2019 [(paper)](https://arxiv.org/pdf/1905.07799.pdf) [(pytorch code)](https://github.com/facebookresearch/adaptive-span)
+
+1. **XLNet: Generalized Autoregressive Pretraining for Language Understanding**, arxiv 2019 [(paper)](https://arxiv.org/pdf/1906.08237.pdf) [(tensorflow code)](https://github.com/zihangdai/xlnet)
