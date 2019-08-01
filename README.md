@@ -10,3 +10,5 @@ A list of transformers
 1. **Adaptive Attention Span in Transformers**, ACL 2019 [(paper)](https://arxiv.org/pdf/1905.07799.pdf) [(pytorch code)](https://github.com/facebookresearch/adaptive-span)
 
 1. **XLNet: Generalized Autoregressive Pretraining for Language Understanding**, arxiv 2019 [(paper)](https://arxiv.org/pdf/1906.08237.pdf) [(tensorflow code)](https://github.com/zihangdai/xlnet)
+
+1. **Syntactically Supervised Transformers for Faster Neural Machine Translation**, ACL 2019 [(paper)](https://www.aclweb.org/anthology/P19-1122) [(pytorch code)](https://github.com/dojoteef/synst)
