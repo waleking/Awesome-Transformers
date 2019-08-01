@@ -26,3 +26,5 @@ _originial paper_
   _residual_
 
 1. **Large Batch Optimization for Deep Learning: Training BERT in 76 Minutes**, arxiv 2019 [(paper)](https://arxiv.org/pdf/1904.00962.pdf) _distributed computation_ 
+
+1. **Universal Transformers**, ICLR 2019 [(paper)](https://arxiv.org/pdf/1807.03819.pdf) [(tensorflow code)](https://github.com/tensorflow/tensor2tensor) _recurrent Transformer blocks_
