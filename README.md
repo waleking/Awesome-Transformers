@@ -28,3 +28,5 @@ _originial paper_
 1. **Large Batch Optimization for Deep Learning: Training BERT in 76 Minutes**, arxiv 2019 [(paper)](https://arxiv.org/pdf/1904.00962.pdf) _distributed computation_ 
 
 1. **Universal Transformers**, ICLR 2019 [(paper)](https://arxiv.org/pdf/1807.03819.pdf) [(tensorflow code)](https://github.com/tensorflow/tensor2tensor) _recurrent Transformer blocks_
+
+1. **Lattice Transformer for Speech Translation**, ACL 2019 [(paper)](https://www.aclweb.org/anthology/P19-1649) _on lattice (directed acyclic graph, a.k.a., DAG)_
