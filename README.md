@@ -24,3 +24,5 @@ _originial paper_
 
 1. **Learning Deep Transformer Models for Machine Translation**, ACL 2019 [(paper)](https://www.aclweb.org/anthology/P19-1176) [(pytorch code)](https://github.com/wangqiangneu/dlcl)
   _residual_
+
+1. **Large Batch Optimization for Deep Learning: Training BERT in 76 Minutes**, arxiv 2019 [(paper)](https://arxiv.org/pdf/1904.00962.pdf) _distributed computation_ 
